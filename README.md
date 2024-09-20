@@ -1,2 +1,2 @@
-# This-is-not-EnterOlymp2024
+# EnterOlymp2024
 No, it is not EnterOlymp2024

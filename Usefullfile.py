@@ -1,0 +1,1 @@
+print('ROCK AND STONE!!!')
