@@ -40,7 +40,3 @@ def final20boss(listtrip: list, listdouble: list) -> int:
     return counter * counter * counter * counter1
 
 print(final20boss(triplepairless9(), doublepairless9()))
-                
-                
-
-    
